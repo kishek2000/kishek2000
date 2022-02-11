@@ -3,7 +3,7 @@
 I'm Adi, a Junior Full Stack Engineer and UI/UX Designer looking to create world class user experiences.
 
 ## Stats
-[![Adi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kishek2000&range=last_year)](https://github.com/anuraghazra/github-readme-stats)
+[![Adi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kishek2000&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kishek2000/kishek2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
